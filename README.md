@@ -1,6 +1,6 @@
 <h1 align="center">✨ Socially App ✨</h1>
 
-![Demo App](/public/screenshot-for-readme.png)
+![Demo App](/public/SOCIALLY-IMAGE.png)
 
 Highlights:
 
